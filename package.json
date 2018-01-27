@@ -10,7 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/Michun/jointjs-simple-base.git"
   },
-  "author": "Michał Nowacki",
+  "contributors": [
+    {
+      "name": "Michał Nowacki",
+      "email": "mnowacki@neoteric.eu"
+    },
+    {
+      "name": "Kamil Stobiecki",
+      "email": "kamil.stobiecki@neoteric.eu"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Michun/jointjs-simple-base/issues"

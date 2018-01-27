@@ -1,0 +1,1 @@
+let graph = new joint.dia.Graph();
